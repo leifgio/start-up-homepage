@@ -1,0 +1,15 @@
+---
+title: "Start-Up"
+image: "featured.jpg"
+links:
+  - label: Portfolio
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/leifgio"
+  - label: Email
+    url: "mailto:leifgio.villanueva@gsfe.tupcavite.edu.ph"
+output:
+  postcards::jolla
+---
+
+A group of dedicated software developers that aims to deliver life-changing web solutions.
